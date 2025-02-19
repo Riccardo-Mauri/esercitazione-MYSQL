@@ -39,3 +39,4 @@ Ed infine ho creato la tabella 'iscrizioni'
     FOREIGN KEY (studente_id) REFERENCES studenti(id) ON DELETE CASCADE,
     FOREIGN KEY (corso_id) REFERENCES corsi(id) ON DELETE CASCADE
 );
+Questo codice creerà una tabella PIVOT cioè una tabella in relazione tra le due tabelle 'studenti' e 'corsi'
