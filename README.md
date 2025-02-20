@@ -50,4 +50,8 @@ per la tabelle ho utilizzato il comando INSERT INTO nome della tabella (colonna 
                                         VALUES perché ho inserito valori multipli 
                                         ('valore da inserire nella PRIMA colonna', ?valore da inserire nella SECONDA colonna', ecc ecc N:B: i numeri senza apici!);
 
+                                        
+Valori che ho inserito nella tabella studenti:
+<img src"![Immagine 2025-02-20 154410](https://github.com/user-attachments/assets/de9f3ae1-20e9-49d5-b541-b5c65fa07621)">
+
                                     
