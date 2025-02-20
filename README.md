@@ -52,6 +52,17 @@ per la tabelle ho utilizzato il comando INSERT INTO nome della tabella (colonna 
 
                                         
 Valori che ho inserito nella tabella studenti:
-![Immagine 2025-02-20 154410](https://github.com/user-attachments/assets/de9f3ae1-20e9-49d5-b541-b5c65fa07621)
+![Immagine 2025-02-20 154410](https://github.com/user-attachments/assets/6641e8b1-dea5-449b-8401-d63aa81bf645)
+
+
+Valori che ho inserito nella tabella corsi:
+
+![Immagine 2025-02-20 154637](https://github.com/user-attachments/assets/a95cb6cf-1ea1-4325-ba31-59e2949fad7f)
+
+
+Valori che ho inserito nella tabella iscrizioni:
+
+![Immagine 2025-02-20 154703](https://github.com/user-attachments/assets/a9667fe7-6da9-475d-8e0a-caadc3ca0b86)
+
 
                                     
