@@ -40,3 +40,14 @@ Ed infine ho creato la tabella 'iscrizioni'
     FOREIGN KEY (corso_id) REFERENCES corsi(id) ON DELETE CASCADE
 );
 Questo codice creerà una tabella PIVOT cioè una tabella in relazione tra le due tabelle 'studenti' e 'corsi'
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Dopo fatto ciò ho popolato le tabelle con dei dati fittizi abbastanza realistici per poi fare delle prove con delle query
+
+per la tabelle ho utilizzato il comando INSERT INTO nome della tabella (colonna in cui inserire i dati, nome della seconda colonna in cui inserire i dati, ecc)
+                                        VALUES perché ho inserito valori multipli 
+                                        ('valore da inserire nella PRIMA colonna', ?valore da inserire nella SECONDA colonna', ecc ecc N:B: i numeri senza apici!);
+
+                                    
