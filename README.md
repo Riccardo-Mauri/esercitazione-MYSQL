@@ -52,6 +52,6 @@ per la tabelle ho utilizzato il comando INSERT INTO nome della tabella (colonna 
 
                                         
 Valori che ho inserito nella tabella studenti:
-<img src"![Immagine 2025-02-20 154410](https://github.com/user-attachments/assets/de9f3ae1-20e9-49d5-b541-b5c65fa07621)">
+![Immagine 2025-02-20 154410](https://github.com/user-attachments/assets/de9f3ae1-20e9-49d5-b541-b5c65fa07621)
 
                                     
