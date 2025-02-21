@@ -64,5 +64,13 @@ Valori che ho inserito nella tabella iscrizioni:
 
 ![Immagine 2025-02-20 154703](https://github.com/user-attachments/assets/a9667fe7-6da9-475d-8e0a-caadc3ca0b86)
 
+-----------------------------------------------------------------------------------------------------------------------------------
+Dopo un controllo fatto dal dipartimento si nota che il cognome del docente di Matematica è sbagliato e va corretto quindi si esegue la query di UPDATE per AGGIORNARE la tabella corsi dove è presente l'errore.
+UPDATE corsi
+SET docente = 'Nuovo Nome' -> in questo caso 'Asia Altalenati'
+WHERE id = 2;
+Questo andrà ad aggiornare il cognome del docente dell ID 2 che è in questo caso quello di Matematica ma si potrebbe pure aggiornare selezionando direttamente la voce 'Matematica' SE non conosciamo l'ID del docente.
+
+![Immagine 2025-02-21 180403](https://github.com/user-attachments/assets/510072a6-0482-4465-a267-b1501d99644b)
 
                                     
